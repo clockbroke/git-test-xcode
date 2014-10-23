@@ -36,6 +36,7 @@
 		3123A06B19F95DFC000B375B /* Git testTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Git testTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3123A07019F95DFC000B375B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3123A07119F95DFC000B375B /* Git_testTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Git_testTests.swift; sourceTree = "<group>"; };
+		3123A07B19F95F59000B375B /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		3123A04D19F95DFB000B375B = {
 			isa = PBXGroup;
 			children = (
+				3123A07B19F95F59000B375B /* Config.xcconfig */,
 				3123A05819F95DFB000B375B /* Git test */,
 				3123A06E19F95DFC000B375B /* Git testTests */,
 				3123A05719F95DFB000B375B /* Products */,
